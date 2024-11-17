@@ -1,5 +1,6 @@
 # Mastercard_virtual_intern
-As a fresher this was a wholesome experience, completing virtual intern as an Advisor &amp; consulting services.
+As a fresher this was a wholesome experience, completing virtual intern as an Associate Consultant.
+<img width="998" alt="Screenshot 2024-11-17 at 8 43 04 PM" src="https://github.com/user-attachments/assets/48c27f19-e3db-4378-bf4d-06ff6b5580c1">
 
 # You might be thinking "why I am interested in this role?"
 I recently participated in Mastercard's job simulation on the Forage platform, and it was incredibly useful to understand what it might be like to participate on an Advisors & Consulting Services team at Mastercard. 
