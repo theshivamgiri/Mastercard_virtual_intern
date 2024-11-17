@@ -1,9 +1,9 @@
 # Mastercard_virtual_intern
 As a fresher this was a wholesome experience, completing virtual intern as an Advisor &amp; consulting services.
 # Skill Gained:
-CRITICAL THINKING
-DATA ANALYSIS
-STRATEGIC COMMUNICATION
+CRITICAL THINKING,
+DATA ANALYSIS,
+STRATEGIC COMMUNICATION,
 STRATEGIC PLANNING
 
 I just completed Mastercard's Advisors & Consulting Services on Forage. In the simulation I:
