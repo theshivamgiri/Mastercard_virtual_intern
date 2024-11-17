@@ -1,5 +1,11 @@
 # Mastercard_virtual_intern
 As a fresher this was a wholesome experience, completing virtual intern as an Advisor &amp; consulting services.
+
+# You might be thinking "why I am interested in this role?"
+I recently participated in Mastercard's job simulation on the Forage platform, and it was incredibly useful to understand what it might be like to participate on an Advisors & Consulting Services team at Mastercard. 
+I worked on a project to analyze and optimize promotional strategies for retail clients. I practiced using advanced data analytics tools and built my data interpretation and presentation skills in a real-world context. 
+Doing this program confirmed that I really enjoy working on data-driven solutions, and I'm excited to apply these skills on a team at a company like Mastercard.
+
 # Skill Gained:
 CRITICAL THINKING,
 DATA ANALYSIS,
